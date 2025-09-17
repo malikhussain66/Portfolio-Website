@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: black;
+}
+
+#site-header h1 {
+  font-size: 28px;
+}
+
+#hero img {
+  max-width: 100%;
+  height: auto;
+}
